@@ -1,0 +1,6 @@
+Java/maven/
+Java/target/
+__pycache__/
+*.class
+*.html
+*.log
